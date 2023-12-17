@@ -1,0 +1,30 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "name": "Himalaya Shri",
+      "current": {
+        "cw": "Software developer at Google",
+        "cwy": "2020"
+      },
+      "about": "This is a Demo Resume...",
+      "education": {
+        "college": "Holkar Science College",
+        "course": "Bachelors in Computer Science",
+        "year": "2014-2018"
+      },
+      "experience": {
+        "experience": "Frontend Developer at Microsoft",
+        "ey": "2018-2020"
+      },
+      "projects": {
+        "projectTitle": "Artify",
+        "projectDescription": "This is an art gallery project"
+      },
+      "skills": {
+        "skill": "React",
+        "rating": 4
+      }
+    }
+  ]
+}
